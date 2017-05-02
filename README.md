@@ -1,5 +1,7 @@
 # ee-soa-response-cache
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-soa-response-cache.svg)](https://greenkeeper.io/)
+
 description
 
 ## installation
